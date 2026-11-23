@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- هدر تایپ‌شونده مینیمال -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+DIAKO+%2F%2F+DIAKODE;Building+Serverless+Apps+%26+Bots;Automation%2C+Networks+%26+Clean+Systems" alt="DIAKO Typing Header" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+DIAKO;Building+Serverless+Apps+%26+Bots;Automation%2C+Networks+%26+Clean+Systems" alt="DIAKO Typing Header" />
 
 </div>
 
@@ -22,15 +22,15 @@
   <img src="https://skillicons.dev/icons?i=py,js,ts,nodejs,express,html,css,sqlite,cloudflare,docker,linux,bash,git&theme=dark&perline=7" alt="Tech Stack" />
 </div>
 
+<!--
 ---
 
 ### Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[Project One](https://github.com/DIAKODE/REPO_1)** | توضیح کوتاه یک‌خطی از پروژه اول و مشکلی که حل می‌کند | `Python` `Network` |
-| **[Project Two](https://github.com/DIAKODE/REPO_2)** | توضیح کوتاه یک‌خطی از پروژه دوم (مثلاً ربات یا مینی‌اپ) | `Cloudflare` `JS` |
-| **[Project Three](https://github.com/DIAKODE/REPO_3)** | توضیح کوتاه یک‌خطی از پروژه سوم (مثلاً اتوماسیون یا ابزار وب) | `Node.js` `Docker` |
+| **[Project Name](https://github.com/DIAKODE/REPO_NAME)** | توضیح یک‌خطی پروژه | `Stack` |
+-->
 
 ---
 
