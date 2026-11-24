@@ -45,7 +45,7 @@
 
 <div align="center">
   <a href="https://diako.site"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00E5FF" alt="Website" /></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00E5FF" alt="Telegram" /></a>
+  <a href="https://t.me/diawko"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00E5FF" alt="Telegram" /></a>
   <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00E5FF" alt="YouTube" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
 </div>
