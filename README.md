@@ -37,8 +37,8 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DIAKODE&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" alt="DIAKODE GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIAKODE&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9" alt="DIAKODE Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DIAKODE&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9&v=2" alt="DIAKODE GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DIAKODE&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5FF&text_color=C9D1D9&v=2" alt="DIAKODE Top Languages" />
 </div>
 
 ---
@@ -46,6 +46,8 @@
 <div align="center">
   <a href="https://diako.site"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00E5FF" alt="Website" /></a>
   <a href="https://t.me/diawko"><img src="https://img.shields.io/badge/Telegram-0D1117?style=for-the-badge&logo=telegram&logoColor=00E5FF" alt="Telegram" /></a>
+  <!--
   <a href="https://youtube.com/@YOUR_CHANNEL"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=00E5FF" alt="YouTube" /></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email" /></a>
+  -->
 </div>
